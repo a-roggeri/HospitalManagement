@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\bin\Debug\net9.0\HospitalManagement.exe
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\bin\Debug\net9.0\HospitalManagement.deps.json
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\bin\Debug\net9.0\HospitalManagement.runtimeconfig.json
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\bin\Debug\net9.0\HospitalManagement.dll
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\bin\Debug\net9.0\HospitalManagement.pdb
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.AssemblyInfo.cs
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.dll
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\refint\HospitalManagement.dll
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.pdb
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\HospitalManagement.genruntimeconfig.cache
+C:\Users\andre\Desktop\HospitalManagement\HospitalManagement\obj\Debug\net9.0\ref\HospitalManagement.dll
